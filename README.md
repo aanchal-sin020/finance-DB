@@ -1,5 +1,6 @@
 # 💰 Finance Dashboard Backend
 A backend system for managing financial records with role-based access control and dashboard analytics.
+This project focuses on backend architecture, API design, and role-based access control.
 
 ## 📂 Features
 1. User Management (Admin, Analyst, Viewer)
