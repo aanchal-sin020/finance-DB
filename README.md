@@ -24,16 +24,16 @@ This project focuses on backend architecture, API design, and role-based access 
 
 ## 📊 API Endpoints
 ### Users
-1. POST /api/users
-2. GET /api/users
+1. POST /api/users - Create User
+2. GET /api/users - Get all Users
 
 ### Records
-1. POST /api/records (Admin/Analyst only)
-2. GET /api/records
+1. POST /api/records (Admin/Analyst only) - Add Records
+2. GET /api/records - Get Records
 
 ### Dashboard
-1. GET /api/dashboard/summary
-2. GET /api/dashboard/categories
+1. GET /api/dashboard/summary - Summary
+2. GET /api/dashboard/categories - Category Breakdown
 
 
 ## ⚙️ Setup
